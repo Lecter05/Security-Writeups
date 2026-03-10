@@ -1,0 +1,1 @@
+Teorik yok, direkt pratik
