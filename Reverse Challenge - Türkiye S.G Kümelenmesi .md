@@ -12,7 +12,7 @@ PyInstaller ile paketlenmiş, derlenmiş python dosyalar [pyinstxtractor](https:
 <img width="1841" height="501" alt="3  böyle dosyalar bırakır" src="https://github.com/user-attachments/assets/92e97440-429c-4901-9c15-8357ccd3720d" />
 
 ## 4. String İncelemesi
-strings komutu ile incelenen dosyalardan **reverse.pyc** dosyası incelendiğinde, reverse_challenge.exe çalıştırıldığında görüntülenen yazılara raslandı.
+strings komutu ile incelenen dosyalardan **reverse.pyc** dosyasında, reverse_challenge.exe çalıştırıldığında görüntülenen yazılara raslandı.
 <img width="1219" height="857" alt="4  string reverse py diyorum programdaki komutları gördüm" src="https://github.com/user-attachments/assets/0ea3d8f9-7843-41f2-97ba-44c0895844d8" />
 
 ## 5. Decompile İşlemi
@@ -30,4 +30,3 @@ Decompile edilen **reverse.py** kodlarına bakıldığında if bloğu içerisind
 ## 8. Flag ASCII hale getirme 
 kod içerisindeki **flag_bytes** decimal formattan okunabilir hale getirildi ve flag elde edildi. 
 <img width="723" height="300" alt="8  flag" src="https://github.com/user-attachments/assets/e2a01340-926c-4487-824b-ae95853d9829" />
-
