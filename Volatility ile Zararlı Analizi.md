@@ -44,7 +44,7 @@ kullanıcının NTLM hash'lerini ```windows.hashdump``` komutu ile çekiyoruz.
 <img width="954" height="368" alt="10  kullanıcı parolasını görmek için hash dump alıyoruz" src="https://github.com/user-attachments/assets/bfa771bf-906b-4d0b-84aa-a16c73e4f2f5" />
 
 ## 10. Hash'in Kırma
-Hashin kırılması sürecini, https://crackstation.net/ sitesi sayesinde parolayı deşifre ediyoruz. 
+Hashin kırılması sürecini, [crackstation.net](https://crackstation.net/) sitesi sayesinde parolayı deşifre ediyoruz. 
 <img width="1548" height="589" alt="11  hashcat&#39;te görüntülediğimizde parolaya ulaşıyoruz" src="https://github.com/user-attachments/assets/0ba0822b-e3bd-4780-bc92-e125a13efa60" />
 
 
